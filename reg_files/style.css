@@ -1,0 +1,60 @@
+.12hei20 {
+	FONT-SIZE: 12px; COLOR: #660000; LINE-HEIGHT: 15px
+}
+.12hongcu20 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #7a7243; LINE-HEIGHT: 20px
+}
+.12hei22 {
+	FONT-SIZE: 12px; COLOR: #000000
+}
+.12hongcu22 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #fcffc5
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #ffffcc; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #ffffcc; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #ffffcc; TEXT-DECORATION: underline
+}
+.hui12 {
+	FONT-SIZE: 12px; COLOR: #999999; LINE-HEIGHT: normal; TEXT-DECORATION: none
+}
+.12bai20 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 20px
+}
+.12hui20 {
+	FONT-SIZE: 12px; COLOR: #808080; LINE-HEIGHT: 20px
+}
+.14hongcu20 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ff0000; LINE-HEIGHT: 20px
+}
+.12hei {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 22px; TEXT-DECORATION: none
+}
+.14hong {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ff0000; LINE-HEIGHT: normal
+}
+.12hongcu {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff0000; LINE-HEIGHT: normal
+}
+.12heicu {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal
+}
+.16hongcu {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ff0000; TEXT-DECORATION: none
+}
+.12heihong {
+	FONT-SIZE: 12px; COLOR: #660000; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.14hongheicu {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #660000; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.12hei15 {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 16px; TEXT-DECORATION: none
+}
+.12bai {
+	FONT-SIZE: 12px; COLOR: #ffffcc; LINE-HEIGHT: normal; TEXT-DECORATION: none
+}

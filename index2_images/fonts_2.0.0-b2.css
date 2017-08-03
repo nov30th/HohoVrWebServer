@@ -1,0 +1,42 @@
+BODY {
+	FONT: small arial,helvetica,clean,sans-serif
+}
+TABLE {
+	
+}
+SELECT {
+	FONT: 99% arial,helvetica,clean,sans-serif
+}
+input {
+	font-family: "Tahoma";
+	BORDER-TOP-WIDTH: 1px;
+	BORDER-LEFT-WIDTH: 1px;
+	FONT-SIZE: 12px;
+	BORDER-BOTTOM-WIDTH: 1px;
+	BORDER-RIGHT-WIDTH: 1px;
+	color: #000000;
+}
+textarea {
+	font-family: "Tahoma";
+	BORDER-WIDTH: 1px;
+	FONT-SIZE: 12px;
+	color: #000000;
+}
+input.button
+{
+    background: url( "../image/edit/fade-butt.png" );
+    border: 1px double #909090;
+    border-left-color: #c0c0c0;
+    border-top-color: #c0c0c0;
+    color: #333;
+    padding: 0.05em 0.25em 0.05em 0.25em;
+}
+PRE {
+	FONT: 100% monospace
+}
+CODE {
+	FONT: 100% monospace
+}
+BODY  {
+	LINE-HEIGHT: 1.22em
+}

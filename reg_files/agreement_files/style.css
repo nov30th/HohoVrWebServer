@@ -1,0 +1,39 @@
+.12hongcu20 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff0000
+}
+.14baicu20 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 20px
+}
+A.bann:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 20px; TEXT-DECORATION: underline
+}
+A.bann:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; LINE-HEIGHT: 20px; TEXT-DECORATION: underline
+}
+A.bann:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #0000ff; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.14hongcu20 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ff0000; LINE-HEIGHT: 20px
+}
+.12hui20 {
+	FONT-SIZE: 12px; COLOR: #808080; LINE-HEIGHT: 20px
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 20px; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 20px; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.12huicu20 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 20px
+}
+.12hei20 {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 20px
+}
+.12hei {
+	FONT-SIZE: 12px; COLOR: #000000
+}

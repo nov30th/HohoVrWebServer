@@ -1,0 +1,260 @@
+﻿*
+{
+    font-size: 12px;
+}
+body, table, td
+{
+    line-height: 18px;
+    font-size: 12px;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+}
+a
+{
+    text-decoration: none;
+}
+a:link
+{
+    color: #0066CC;
+    text-decoration: none;
+}
+a:visited
+{
+    color: #0066CC;
+    text-decoration: none;
+}
+a:hover
+{
+    color: #FF7F50;
+    text-decoration: underline;
+}
+a:active
+{
+    color: #FF7F50;
+    text-decoration: underline;
+}
+p
+{
+    margin: 0;
+    padding: 5px;
+}
+table
+{
+    border-collapse: collapse;
+    border: 1px solid #333333;
+    background: #ffffff;
+    margin-top: 10px;
+}
+td
+{
+    border: 1px solid #333333;
+    margin: 0;
+    padding: 3px;
+}
+img
+{
+    border: 0;
+}
+hr
+{
+    border: 0px;
+    border-top: 1px solid #666666;
+    background: #666666;
+    margin: 2px 0 4px 0;
+    padding: 0;
+    height: 0px;
+}
+img
+{
+    margin: 0;
+    padding: 0;
+}
+form
+{
+    margin: 0;
+    padding: 0;
+}
+input, select
+{
+    border: 1px solid #CCCCCC;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+textarea
+{
+    font-family: "Tahoma";
+    border-width: 1px;
+    font-size: 12px;
+    color: #000000;
+}
+input.button
+{
+    background: url(  "../image/edit/fade-butt.png" );
+    border: 1px double #909090;
+    border-left-color: #c0c0c0;
+    border-top-color: #c0c0c0;
+    color: #333;
+    padding: 0.05em 0.25em 0.05em 0.25em;
+}
+
+
+
+
+
+
+
+
+#divSidebar
+{
+    padding: 0;
+    margin: 0 0 0 0;
+    text-align: center;
+    float: left;
+}
+#divTitle
+{
+    padding: 0 0 0 0;
+    margin: 0;
+    float: left;
+    width: 100%;
+    background: #EDF4FB url(  "../image/edit/titlebg.gif" ) repeat-x;
+    height: 60px;
+    text-align: left;
+}
+#divManage
+{
+    padding: 0 0 0 0;
+    margin: 0;
+    float: left;
+    width: 100%;
+    background: #DAE2E8;
+    border-top: 1px solid #969EA4;
+    border-bottom: 1px solid #969EA4;
+    background: url(  "../image/edit/navbg.gif" ) repeat-x center top;
+}
+#divManage h3
+{
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
+#divManage ul
+{
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+#divManage li
+{
+    float: left;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    list-style-type: none;
+    list-style-position: outside;
+    background: url(  "../image/edit/navbg2.gif" ) no-repeat right top;
+}
+#divManage a
+{
+    float: left;
+    padding: 5px 8px 3px 8px;
+    margin: 0;
+    font-weight: normal;
+    text-decoration: none;
+    height: 16px;
+}
+#divManage a:link
+{
+    color: black;
+    text-decoration: none;
+}
+#divManage a:visited
+{
+    color: black;
+    text-decoration: none;
+}
+#divManage a:hover
+{
+    color: white;
+    background: #DC143C;
+}
+#divManage a:active
+{
+    color: white;
+    background: #DC143C;
+}
+#divMain
+{
+    float: left;
+    width: 100%;
+    padding: 0;
+    text-align: left;
+}
+#divMain2
+{
+    float: left;
+    padding: 10px 3% 10px 2%;
+    text-align: left;
+    width: 95%;
+}
+div.Header
+{
+    padding: 6px 0 0 2%;
+    margin: 0;
+    width: 98%;
+    background: #CFD9DF;
+    height: 22px;
+    text-align: left;
+    font-size: 16px;
+}
+div.form
+{
+    width: 750px;
+    margin: 10px auto;
+}
+#edit
+{
+    border: 1px solid #333333;
+    padding: 4px 1% 4px 1%;
+    margin: 0px;
+    width: 97%;
+    text-align: left;
+}
+#txaContent
+{
+    height: 260px;
+    width: 715px;
+}
+#txaIntro
+{
+    height: 120px;
+    width: 715px;
+}
+#edtTrackBack
+{
+    width: 585px;
+}
+#btnSend
+{
+    width: 120px;
+}
+#edtTitle
+{
+    width: 340px;
+}
+#edtTag
+{
+    width: 340px;
+}
+select.edit
+{
+    width: 345px;
+}
+select.full
+{
+    width: 100%;
+}
